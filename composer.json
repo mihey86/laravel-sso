@@ -1,5 +1,5 @@
 {
-    "name": "mi-lopez/laravel-sso",
+    "name": "mihey86/laravel-sso",
     "description": "Simple PHP SSO integration for Laravel",
     "keywords": ["laravel", "sso", "authentication", "login"],
     "homepage": "https://github.com/mi-lopez/laravel-sso",
@@ -23,7 +23,6 @@
       }
     ],
     "require": {
-        "php": "^7.4",
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.0",
         "zefy/php-simple-sso": "^1.0"
